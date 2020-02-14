@@ -23,7 +23,7 @@ https://semaphoreci.com/cicd
 https://serverless.com/blog/preview-deployments/
 https://learn.hashicorp.com/terraform/certification/terraform-associate
 https://www.infoq.com/news/2020/02/wksctl-kubernetes-gitops/
-Create a CI/CD pipeline with K8s and jenkins 
+Create a CI/CD pipeline with K8s and jenkins
 https://www.magalix.com/blog/create-a-ci/cd-pipeline-with-kubernetes-and-jenkins
 https://www.red-gate.com/simple-talk/sysadmin/devops/asp-net-core-with-gitops-orchestrating-your-containers-with-kubernetes/
 
