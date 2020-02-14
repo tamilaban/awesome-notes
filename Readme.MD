@@ -1,10 +1,13 @@
 Microservice/Architechture 
 
 https://github.com/dotnet-architecture/eShopOnContainers
+https://docs.microsoft.com/en-us/azure/architecture/architectures/?filter=reference-architecture&sort=-publish_date
+
 
 Dotnet Core
 
 https://github.com/EricHerlitz/Swedish-BankID-.NET-Core
+https://www.red-gate.com/simple-talk/sysadmin/devops/asp-net-core-with-gitops-orchestrating-your-containers-with-kubernetes/
     
 Source control: 
 
@@ -13,6 +16,7 @@ https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc
 
 Devops: 
 
+https://techbeacon.com/devops/devops-must-reads-7-titles-every-practitioner-should-read Devops must read 
 https://charlenemckeown.github.io/GitHubWorkshop/
 https://semaphoreci.com/cicd
 https://serverless.com/blog/preview-deployments/
@@ -20,17 +24,21 @@ https://learn.hashicorp.com/terraform/certification/terraform-associate
 https://www.infoq.com/news/2020/02/wksctl-kubernetes-gitops/
 Create a CI/CD pipeline with K8s and jenkins 
 https://www.magalix.com/blog/create-a-ci/cd-pipeline-with-kubernetes-and-jenkins
+https://www.red-gate.com/simple-talk/sysadmin/devops/asp-net-core-with-gitops-orchestrating-your-containers-with-kubernetes/
 
 azure devops: 
 
 https://adamtheautomator.com/azure-devops-pipeline-infrastructure/
 https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2020-01-31/
+https://adamtheautomator.com/azure-devops-variables-complete-guide/
+https://dev.to/omiossec/azure-devops-pipelines-with-github-introduction-43mi
 
 k8s : 
 
 https://www.magalix.com/blog/kubernetes-101-concepts-and-why-it-matters
 https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers
 https://levelup.gitconnected.com/kubernetes-cka-example-questions-practical-challenge-86318d85b4d
+https://medium.com/faun/preparation-and-resources-for-cka-exam-ca868fc678c9 
     
 Docker: 
 
