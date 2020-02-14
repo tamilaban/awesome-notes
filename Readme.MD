@@ -12,6 +12,7 @@ https://www.red-gate.com/simple-talk/sysadmin/devops/asp-net-core-with-gitops-or
 Source control: 
 
 https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc
+https://dev.to/duomly/git-cheatsheet-for-beginners-5apl
     
 
 Devops: 
