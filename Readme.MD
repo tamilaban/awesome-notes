@@ -48,6 +48,7 @@ https://medium.com/faun/5-tips-for-building-container-friendly-applications-9920
 
 SRE :
 
+https://blog.alicegoldfuss.com/how-to-get-into-sre/
 https://www.oreilly.com/ideas/how-to-get-started-with-site-reliability-engineering-sre
 https://cloud.google.com/blog/products/management-tools/identifying-and-tracking-toil-using-sre-principles
 https://www.infoq.com/presentations/incident-management-devops-sre/
