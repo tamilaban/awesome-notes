@@ -8,6 +8,11 @@ Dotnet Core
 
 https://github.com/EricHerlitz/Swedish-BankID-.NET-Core
 https://www.red-gate.com/simple-talk/sysadmin/devops/asp-net-core-with-gitops-orchestrating-your-containers-with-kubernetes/
+
+Angular
+
+https://blogs.msmvps.com/deborahk/
+
     
 Source control: 
 
