@@ -40,6 +40,7 @@ https://www.magalix.com/blog/kubernetes-101-concepts-and-why-it-matters
 https://www.digitalocean.com/community/curriculums/kubernetes-for-full-stack-developers
 https://levelup.gitconnected.com/kubernetes-cka-example-questions-practical-challenge-86318d85b4d
 https://medium.com/faun/preparation-and-resources-for-cka-exam-ca868fc678c9 
+https://learnk8s.io/templating-yaml-with-code
     
 Docker: 
 
