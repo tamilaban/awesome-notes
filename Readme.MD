@@ -1,4 +1,8 @@
-Microservice/Architechture 
+##How to GitHub Profile
+
+https://hackernoon.com/how-to-optimize-your-github-profile-9540f338b2c9
+
+##Microservice/Architechture 
 
 https://github.com/dotnet-architecture/eShopOnContainers
 https://docs.microsoft.com/en-us/azure/architecture/architectures/?filter=reference-architecture&sort=-publish_date
