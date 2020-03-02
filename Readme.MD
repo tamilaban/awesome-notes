@@ -1,6 +1,8 @@
 JWT in Web APi 
 
 https://github.com/cuongle/Hmac.WebApi
+https://medium.com/@mmoshikoo/jwt-authentication-using-c-54e0c71f21b0
+https://github.com/MosheWorld/AuthenticationService/tree/master/AuthenticationService%20C%23
 
 ##How to GitHub Profile
 
